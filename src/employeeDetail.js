@@ -56,25 +56,7 @@ class employeeDetail extends React.Component {
           
        })
        console.log(this.state.items);
-      // .then (res => res.json())
-      // .then(data => {
-      //    let items=data.map((item,index) => {
-
-      //       return ( 
-      //          <div key={index}>
-      //             <ul>
-      //                < li>
-      //                      Name:{item.name} | Salary: {item.salary}
-      //                </li>    
-      //             </ul>
-      //           </div>
-      //       )
-      //    })
-      //    this.setState({items: items});
-      // })
-
-   }
-
+     
 
    
 render(){
